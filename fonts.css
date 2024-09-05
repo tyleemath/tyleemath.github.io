@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Dubai;
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  font-family: Dubai, sans-serif;
+}
